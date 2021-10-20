@@ -1,6 +1,6 @@
 # Title: "Sekh Hasina medical college & Hospital "
 
-## Live site link:"https://sekh-hasina-medical-college-and-hospital.netlify.app/home"
+## Live site link:"https://sekhhasinamedicalcollegeandhospital.netlify.app/home"
 
 ### Road map:
 
